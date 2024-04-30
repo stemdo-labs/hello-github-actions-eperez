@@ -25,6 +25,8 @@ El script de shell en el flujo de trabajo se ejecutará cada vez que se abra una
 5. Observa el comentario que el flujo de trabajo agrega a la pull request.
 6. Espera unos 20 segundos, luego actualiza esta página (la que estás siguiendo las instrucciones). Otro flujo de trabajo se ejecutará y reemplazará el contenido de este archivo README con instrucciones para el próximo paso.
 
+7.  :smile:_
+
 <footer>
 
 ---
