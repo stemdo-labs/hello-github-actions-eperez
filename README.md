@@ -29,6 +29,8 @@ Aquí tienes un resumen de todas las tareas que has realizado en tu repositorio:
 - Aprende más sobre GitHub leyendo la documentación "[Get started](https://docs.github.com/get-started)"
 - Para encontrar proyectos en los que contribuir, visita [GitHub Explore](https://github.com/explore)
 
+7.  :smile:_
+
 <footer>
 
 ---
